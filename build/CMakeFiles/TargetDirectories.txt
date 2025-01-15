@@ -1,0 +1,14 @@
+/Users/suzanne/UNIX/build/CMakeFiles/wav-write.dir
+/Users/suzanne/UNIX/build/CMakeFiles/wav-read.dir
+/Users/suzanne/UNIX/build/CMakeFiles/sine-sweep.dir
+/Users/suzanne/UNIX/build/CMakeFiles/sine.dir
+/Users/suzanne/UNIX/build/CMakeFiles/sawtooth.dir
+/Users/suzanne/UNIX/build/CMakeFiles/sawtooth-sweep.dir
+/Users/suzanne/UNIX/build/CMakeFiles/square.dir
+/Users/suzanne/UNIX/build/CMakeFiles/square-sweep.dir
+/Users/suzanne/UNIX/build/CMakeFiles/impulse.dir
+/Users/suzanne/UNIX/build/CMakeFiles/impulse-sweep.dir
+/Users/suzanne/UNIX/build/CMakeFiles/triangle.dir
+/Users/suzanne/UNIX/build/CMakeFiles/triangle-sweep.dir
+/Users/suzanne/UNIX/build/CMakeFiles/edit_cache.dir
+/Users/suzanne/UNIX/build/CMakeFiles/rebuild_cache.dir
